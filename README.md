@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am glad you found me on Github! I work as Automation Architect advocating open source tooling for all automation needs.
 
 <!--
 **suratdas/suratdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
