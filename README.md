@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am glad you found me on Github! I work as Automation Architect advocating open source tooling for all automation needs.
+I am glad you found me on Github! I work as Automation Architect advocating open source tooling for all automation needs. [Below GitHub Stats Credit](https://github.com/anuraghazra/github-readme-stats)
 
-![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true)
+![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true&hide=stars&include_all_commits=true)
+
 
 <!--
 **suratdas/suratdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
