@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am glad you found me on Github! I work as Automation Architect advocating open source tooling for all automation needs.
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true)
 </div>
 
 <!--
