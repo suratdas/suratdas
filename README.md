@@ -1,7 +1,10 @@
 ### Hi there 👋
-I am glad you found me on Github! I work as Automation Architect advocating open source tooling for all automation needs. [Below GitHub Stats Credit](https://github.com/anuraghazra/github-readme-stats)
+Glad you found me on Github! I work in the automation area with open source tooling for all automation needs. 
 
-![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true&hide=stars&include_all_commits=true)
+![Surat's GitHub stats](https://github-readme-stats.vercel.app/api?username=suratdas&theme=react&show_icons=true&hide=stars&include_all_commits=true) 
+- [GitHub Stats Credit](https://github.com/anuraghazra/github-readme-stats)
+- [My Website](https://suratdas.github.io/)
+
 
 
 <!--
